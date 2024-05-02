@@ -55,9 +55,9 @@
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="60"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
                   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">                
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> </p>
 </div>
 
@@ -68,13 +68,13 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimuthuJayathunga&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> 
-  &nbsp;
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimuthuJayathunga&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dimuthuJayathunga&theme=dark&show_icons=true&count_private=true" />
+    &nbsp;
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimuthuJayathunga&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<br><br>
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimuthuJayathunga&theme=dark&hide_border=false" /> 
+      
 
-</a>
 </div>
 
 <br>
