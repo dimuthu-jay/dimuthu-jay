@@ -58,10 +58,10 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">                
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> </p>
-</div>
-			   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> </p>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="60" height="60" />
+</div>
 <br>
 
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> </h3>
@@ -90,6 +90,6 @@
 
 Credits: [Dimuthu Jayathunga](https://github.com/dimuthuJayathunga)
 
-Last Edited on: 18/05/2025
+Last Edited on: 08/06/2025
 
 
