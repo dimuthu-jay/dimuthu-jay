@@ -70,7 +70,7 @@
 <div align="center">
 
   
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimuthuJayathunga&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimuthu-jay&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 <br><br>
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimuthuJayathunga&theme=dark&hide_border=false" /> 
       
@@ -88,7 +88,7 @@
 </div>
 <br><br>
 
-Credits: [Dimuthu Jayathunga](https://github.com/dimuthuJayathunga)
+Credits: [Dimuthu Jayathunga](https://github.com/dimuthu-jay)
 
 Last Edited on: 08/06/2025
 
