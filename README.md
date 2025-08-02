@@ -9,7 +9,7 @@
 
 <hr>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+ **About me**
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width = 300px hight = 300px /></p>
 
@@ -72,7 +72,7 @@
   
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimuthu-jay&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 <br><br>
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimuthuJayathunga&theme=dark&hide_border=false" /> 
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimuthu-jay&theme=dark&hide_border=false" /> 
       
 
 </div>
