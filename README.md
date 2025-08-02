@@ -87,8 +87,8 @@
 </div>
 <br><br>
 
-Credits: [Dimuthu Jayathunga](https://github.com/dimuthu-jay)
+Credits: [Dimuthu Jayathunga](https://dimuthujayathunga.vercel.app)
 
-Last Edited on: 08/06/2025
+Last Edited on: 03/08/2025
 
 
