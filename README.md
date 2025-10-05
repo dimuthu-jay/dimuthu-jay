@@ -13,9 +13,11 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width = 300px hight = 300px /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+I’m a web developer who loves turning ideas into interactive, responsive websites and apps.
 
-- 👨‍💻 All of my projects are available at [www.dimuthujayathunga.com](https://sites.google.com/view/dimuthujayathunga)
+- 🌱 Always learning, experimenting, and pushing the boundaries of development.
+  
+- 👨‍💻 All of my projects are available at [www.dimuthujayathunga.com](https://dimuthujayathunga.vercel.app)
 
 - 📫 How to reach me **dimuthuchanaka06@gmail.com**
 
@@ -87,8 +89,8 @@
 </div>
 <br><br>
 
-Credits: [Dimuthu Jayathunga](https://github.com/dimuthu-jay)
+Credits: [Dimuthu Jayathunga]([https://github.com/dimuthu-jay](https://dimuthujayathunga.vercel.app)
 
-Last Edited on: 03/08/2025
+Last Edited on: 05/10/2025
 
 
