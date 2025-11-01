@@ -89,7 +89,7 @@ I’m a web developer who loves turning ideas into interactive, responsive websi
 </div>
 <br><br>
 
-Credits: [Dimuthu Jayathunga]([https://github.com/dimuthu-jay](https://dimuthujayathunga.vercel.app)
+Credits: [Dimuthu Jayathunga] (https://dimuthujayathunga.vercel.app)
 
 Last Edited on: 05/10/2025
 
